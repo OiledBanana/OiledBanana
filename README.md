@@ -1,10 +1,9 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Adrian!
-👩🏻‍💻 Software Engineer Wannabe sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and python
+👩🏻‍💻 Software Engineer Wannabe sharing about my journey<br/>
+👩🏻‍🎓 Studied Information and Techbnology at at the University of Colegio De San Gabriel Arcanghel(https://cdsga-system.com/website/site/)<br/>
+💭 Currently learning about data analytics and C
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=OiledBanana&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
