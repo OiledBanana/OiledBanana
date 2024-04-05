@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Adrian!
 👩🏻‍💻 Software Engineer Wannabe sharing about my journey<br/>
-👩🏻‍🎓 Studied Information and Techbnology at at the University of Colegio De San Gabriel Arcanghel(https://cdsga-system.com/website/site/)<br/>
+👩🏻‍🎓 Studied Information and Techbnology at at the University of [Colegio De San Gabriel Arcanghel](https://cdsga-system.com/website/site/)<br/>
 💭 Currently learning about data analytics and C
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
